@@ -1,0 +1,58 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/doge_left.png</file>
+        <file>res/doge_right.png</file>
+        <file>res/battle.png</file>
+        <file>res/wheat_harvested.png</file>
+        <file>res/wheat_not_harvested.png</file>
+        <file>res/stock.png</file>
+        <file>res/wheat_under_harvest1.png</file>
+        <file>res/wheat_under_harvest2.png</file>
+        <file>res/wheat_under_harvest3.png</file>
+        <file>res/battle2.png</file>
+        <file>res/battle3.png</file>
+        <file>res/backup/harvestsound.wav</file>
+        <file>res/sound/backgroundmusic.wav</file>
+        <file>res/sound/backgroundsound.wav</file>
+        <file>res/sound/harvestsound.wav</file>
+        <file>res/sound/move2.wav</file>
+        <file>res/sound/bounce.wav</file>
+        <file>res/tree.png</file>
+        <file>res/fruit.png</file>
+        <file>res/tree_full.png</file>
+        <file>res/tree_full_under_harvest.png</file>
+        <file>res/tree_full_under_harvest2.png</file>
+        <file>res/sound/dropcollect.wav</file>
+        <file>res/sound/hittree.wav</file>
+        <file>res/henhouse.png</file>
+        <file>res/egg/egg.png</file>
+        <file>res/egg/egg_1.png</file>
+        <file>res/egg/egg_2.png</file>
+        <file>res/egg/egg_3.png</file>
+        <file>res/egg/egg_4.png</file>
+        <file>res/egg/egg_5.png</file>
+        <file>res/hen.png</file>
+        <file>res/hen_harvest.png</file>
+        <file>res/sound/henhouse/collectegg.wav</file>
+        <file>res/sound/henhouse/egg.wav</file>
+        <file>res/sound/henhouse/eggfull.wav</file>
+        <file>res/sky/moon.png</file>
+        <file>res/sky/sun.png</file>
+        <file>res/sky/Atlas.png</file>
+        <file>res/sky/Blue Skies.png</file>
+        <file>res/sky/Frost.png</file>
+        <file>res/sky/King Yna.png</file>
+        <file>res/eat.png</file>
+        <file>res/locust.png</file>
+        <file>res/monkey.png</file>
+        <file>res/sound/eat.wav</file>
+        <file>res/sound/bark.wav</file>
+        <file>res/insect_killer.png</file>
+        <file>res/sound/locust.wav</file>
+        <file>res/sound/locust_die.wav</file>
+        <file>res/sound/insect_killer.wav</file>
+        <file>res/voice.png</file>
+        <file>res/fence.png</file>
+        <file>res/title.png</file>
+    </qresource>
+</RCC>
